@@ -19,8 +19,8 @@ namespace FirsLabWithDLL
             SearchDll.FindMaxElementWithPosition(intArray, out maxElement, out maxPosition);
             SearchDll.FindMinElementWithPosition(intArray, out minElement, out minPosition);
 
-            String maxInfoStr = String.Format("Maximum value is {0}, and index of maximum value is {1}", maxElement, maxPosition);
-            String minInfoStr = String.Format("Minimum value is {0}, and index of minimum value is {1}", minElement, minPosition);
+            string maxInfoStr = string.Format("Maximum value is {0}, and index of maximum value is {1}", maxElement, maxPosition);
+            string minInfoStr = string.Format("Minimum value is {0}, and index of minimum value is {1}", minElement, minPosition);
 
             IODll.PrintInfoMessage(minInfoStr);
             IODll.PrintInfoMessage(maxInfoStr);

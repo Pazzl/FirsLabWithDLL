@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirsLabWithDLL", "FirsLabWithDLL\FirsLabWithDLL.csproj", "{C3CF5D59-BD49-4325-BB87-3E4751C5F617}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLabWithDLL", "FirstLabWithDLL\FirstLabWithDLL.csproj", "{C3CF5D59-BD49-4325-BB87-3E4751C5F617}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOLib", "IOLib\IOLib.csproj", "{B12248AC-3592-4D47-B690-F27C9E9C69E9}"
 EndProject
