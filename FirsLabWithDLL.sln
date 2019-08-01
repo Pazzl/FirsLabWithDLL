@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirsLabWithDLL", "FirsLabWithDLL\FirsLabWithDLL.csproj", "{C3CF5D59-BD49-4325-BB87-3E4751C5F617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOLib", "IOLib\IOLib.csproj", "{B12248AC-3592-4D47-B690-F27C9E9C69E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchLib", "SearchLib\SearchLib.csproj", "{8FE6B4A8-AC5E-432D-A007-507943C0DD1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CF5D59-BD49-4325-BB87-3E4751C5F617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CF5D59-BD49-4325-BB87-3E4751C5F617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CF5D59-BD49-4325-BB87-3E4751C5F617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CF5D59-BD49-4325-BB87-3E4751C5F617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12248AC-3592-4D47-B690-F27C9E9C69E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12248AC-3592-4D47-B690-F27C9E9C69E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12248AC-3592-4D47-B690-F27C9E9C69E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12248AC-3592-4D47-B690-F27C9E9C69E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE6B4A8-AC5E-432D-A007-507943C0DD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE6B4A8-AC5E-432D-A007-507943C0DD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE6B4A8-AC5E-432D-A007-507943C0DD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE6B4A8-AC5E-432D-A007-507943C0DD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056B4EF7-9925-4A15-9FAF-02493A995D8C}
+	EndGlobalSection
+EndGlobal
